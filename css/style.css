@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	text-align: center;
+}
+.container {
+	margin: 0 auto;
+	width: 90%;
+	overflow: hidden;
+	/*border: 1px solid red;*/
+}
+
+.orginal_img {
+	width: 40%;
+	float: left;
+}
+.orginal_img img {
+	width: 100%;
+
+}
+
+.bg_remove {
+	width: 40%;
+	float: right;
+}
+.bg_remove img{
+
+	width: 100%;
+}
+.intro{
+	
+	/*border: 1px solid;*/
+
+
+}
+.intro video{
+	margin-left: 26%;
+	width: 50%;
+}
